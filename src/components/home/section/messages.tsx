@@ -49,7 +49,7 @@ As the blessings of God came down to the family of Joseph through Joseph so shal
 We love you daddy and we are proud to call you our daddy. Happy happy happy birthday 🎉🎁🎊🎂. Enjoy your day SIR.
 `,
     avatar: "/assets/Clement.JPG",
-    favoritepicture: "/assets/clement-fav.JPG",
+    favoritepicture: "/assets/Clement-fav.JPG",
   },
   {
     name: "Nii Tetteh Tagoe (Tyzo)",
