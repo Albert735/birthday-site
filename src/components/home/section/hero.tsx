@@ -1,8 +1,8 @@
 import React from "react";
 import { SparklesText } from "@/components/magicui/sparkles-text";
-import { TypingAnimation } from "@/components/magicui/typing-animation";
 import { Marquee } from "@/components/magicui/marquee";
 import Image from "next/image";
+import { AnimatedGradientText } from "@/components/magicui/animated-gradient-text";
 
 interface Photo {
   photos: string;
@@ -23,13 +23,18 @@ export default function Hero() {
       {/* Main Birthday Content */}
       <div className="flex flex-col items-center text-center gap-12 mb-16">
         <SparklesText sparklesCount={20} className="text-center mb-10">
-          <TypingAnimation className="pacifico  text-5xl sm:text-7xl md:text-[10rem] font-bold bg-clip-text ">
+          <AnimatedGradientText
+            speed={2}
+            colorFrom="#fbc2eb" // soft pink
+            colorTo="#a6c1ee" // light periwinkle
+            className="pacifico text-4xl md:text-[11rem] font-bold tracking-tight"
+          >
             Happy Birthday!
-          </TypingAnimation>
+          </AnimatedGradientText>
         </SparklesText>
 
-        <p className="pacifico text-3xl sm:text-4xl font-medium font-sans ">
-          Mr. Patrick Collins Tagoe
+        <p className="pacifico text-3xl sm:text-4xl font-bold font-sans ">
+          Mr. Patrick Collins Tagoe (P.C Tagoe)
         </p>
         <p className="pacifico text-2xl md:text-8xl sm:text-3xl font-medium font-sans ">
           @64

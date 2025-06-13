@@ -6,11 +6,10 @@ import Navbar from "@/components/layout/navbar";
 
 export default function Home() {
   return (
-    <div className=" w-full bg-gradient-to-t from-[#1e3c72] via-[#1e3c72] to-[#2a5298] text-white">
+    <div className=" w-full my-gradient text-white">
       <Navbar />
       <Hero />
       <Messages />
-      {/* <RevealMessage /> */}
       <ConfettiSideCannons />
     </div>
   );

@@ -115,7 +115,7 @@ export default function Messages() {
         {messages.map((msg) => (
           <div
             key={msg.name}
-            className=" p-8  flex flex-col gap-[5rem] w-full border rounded-2xl border-white/20 hover:rotate-1 shadow-md"
+            className=" p-8  flex flex-col gap-[5rem] w-full border rounded-2xl border-white/20 hover:rotate-1 shadow-md backdrop-blur-3xl bg-white/10"
           >
             <div className="flex flex-col gap-5">
               <h1 className="pacifico   text-3xl font-bold ">
