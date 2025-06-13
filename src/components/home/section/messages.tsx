@@ -19,7 +19,7 @@ May God continue to guide your steps, grant you good health, and fulfill the des
 You are deeply loved by me and by Him.
 Have a peaceful, joyful, and grace-filled birthday. 🙏  `,
     avatar: "/assets/mama-1.jpg",
-    favoritepicture: "/assets/mama-fav.png",
+    favoritepicture: "/assets/mama-fav.PNG",
   },
   {
     name: "Mr. Francis Allotey",
@@ -49,7 +49,7 @@ As the blessings of God came down to the family of Joseph through Joseph so shal
 We love you daddy and we are proud to call you our daddy. Happy happy happy birthday 🎉🎁🎊🎂. Enjoy your day SIR.
 `,
     avatar: "/assets/Clement.JPG",
-    favoritepicture: "/assets/clement-fav.jpg",
+    favoritepicture: "/assets/clement-fav.JPG",
   },
   {
     name: "Nii Tetteh Tagoe (Tyzo)",
@@ -58,7 +58,7 @@ Thank you for the life you've given me, For showing me strength and how to be fr
 You've taught me my worth and to stand tall, To work hard, be patient, and give my all.
 And showed me where respect belongs.The way you love Mom is what I'll seek too. A future built on love, because of you.
 `,
-    avatar: "/assets/tyzo.JPG",
+    avatar: "/assets/tyzo.jpg",
     favoritepicture: "/assets/tyzo-fav.jpeg",
   },
   {
@@ -68,7 +68,7 @@ Thank you for always being my rock, my guide, and my biggest supporter. Your str
 
 Love you so much old man 😂🎉
 `,
-    avatar: "/assets/tk.JPG",
+    avatar: "/assets/tk.jpg",
     favoritepicture: "/assets/tk-fav.jpeg",
   },
   {
