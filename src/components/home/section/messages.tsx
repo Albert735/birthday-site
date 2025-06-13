@@ -73,23 +73,20 @@ Love you so much old man 😂🎉
   },
   {
     name: "Naa Ameley Tagoe",
-    message: `Happy Birthday, Daddy!🎉
-Thank you for always being my rock, my guide, and my biggest supporter. Your strength, wisdom, and love have shaped who I am today. I’m so grateful for everything you’ve done and continue to do. Wishing you a day filled with joy, laughter, and all the things that make you happiest. You deserve the world—today and always.
-
-Love you so much old man 😂🎉
+    message: `I love you and wish you  long life , prosperity and good health. Thank you for being an amazing person and father to me and many others”
 `,
     avatar: "/assets/ameley.jpeg",
-    favoritepicture: "/assets/tk-fav.jpeg",
+    favoritepicture: "/assets/naa-fav.jpg",
   },
   {
     name: "Awuley",
-    message: `🎉 Happy Birthday, Mr. Patrick Collins Tagoe! 🎉
-Wishing you a day filled with joy, laughter, and all the things that make your heart smile. 
-May this year bring you new adventures, meaningful moments, and endless blessings. 
-Keep shining, keep inspiring — the world is better with you in it.
-Here’s to another incredible year ahead! 🌟`,
+    message: `🎉 Happy Birthday, Daddy 🎉
+Wishing you a day filled with love, laughter, and peace.
+Your strength, wisdom, and kindness inspire us every day.
+We’re so grateful for you and your love for the heart of our family.
+Here’s to a new year full of joy and blessings! 💛`,
     avatar: "/assets/awuley.jpeg",
-    favoritepicture: "/assets/connie-fav.jpeg",
+    favoritepicture: "/assets/daddy-3.jpeg",
   },
 
   {
